@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("kadai1\n");
+	printf("kadai2\n");
 
 	return 0;
 }
