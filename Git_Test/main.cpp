@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("kadai2\n");
+	printf("kadai2 remote change\n");
 
 	return 0;
 }
