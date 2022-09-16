@@ -2,7 +2,9 @@
 
 int main()
 {
-	printf("Hello Git World");
+	printf("Hello Git World\n");
+
+	printf("add new branch\n");
 
 	return 0;
 }
